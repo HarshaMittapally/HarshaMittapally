@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Harsha, and I'm a 2nd-year Computer Science Engineering (CSE) undergraduate student.</h2>
+<h2 align="left">Hi 👋! My name is Harsha, and I'm a Final-year Computer Science Engineering (CSE) undergraduate student.</h2>
 
 ###
 
